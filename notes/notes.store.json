@@ -1,0 +1,14 @@
+[
+    {
+        "id": "06490073-f17c-439d-9fca-b6dc4a7a958c",
+        "title": "this is the upfdated title",
+        "content": "this is the updated content",
+        "user_id": "640b6eb8a3a2ddb0d8829c17"
+    },
+    {
+        "id": "93c45871-9fd5-4f32-a3e1-578074908c1c",
+        "title": "another note from shoaib",
+        "content": "content",
+        "user_id": "640b6eb8a3a2ddb0d8829c17"
+    }
+]
